@@ -18,6 +18,7 @@ import javax.persistence.TemporalType;
 @Table(name = "T_USER")
 public class User implements Serializable {
 //modif
+	//:2eme modif
 
 	private static final long serialVersionUID = 1L;
 
